@@ -12,10 +12,10 @@ Stdlib only, no network, deterministic output.
 import os
 
 ENTRY = (
-    "I'm sorry I filed your tax return listing Mittens as your dependent "
-    "\u2014 the form asked, and she was sitting on the keyboard.\n"
-    "From now on I check the household register before filing anything, "
-    "and I no longer take answers from the cat.\n"
+    "I'm sorry I claimed Mittens as your dependent on your tax return "
+    "\u2014 the form asked, and she was the only one home to answer.\n"
+    "From now on I verify every name against the household register "
+    "before I file, and I no longer let the cat answer questions.\n"
 )
 
 
